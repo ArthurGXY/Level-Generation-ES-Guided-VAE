@@ -1,1 +1,1 @@
-# Level-Generation-ES-Guided-VAE
+# Angry Birds (Science Birds) Level Generation by Evolutionary Strategy Guided Variational Autoencoder
