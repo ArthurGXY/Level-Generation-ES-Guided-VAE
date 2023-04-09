@@ -21,4 +21,4 @@
 2. The "TensorFlow(abandoned)" folder contains our attempt of building the VAE from scratch. However, it suffers from overfitting issues and we do not have enough time to figure that out.
 
 ### Reference:
-Takumi Tanabe, Kazuto Fukuchi, Jun Sakuma, and Youhei Akimoto. 2021. Level Generation for Angry Birds with Sequential VAE and Latent Variable Evolution. In Proceedings of the Genetic and Evolutionary Computation Conference (Lille, France) (GECCO ’21). Association for Computing Machinery, New York, NY, USA, 1052–1060. <https://doi.org/10.1145/3449639.34592>
+1. Takumi Tanabe, Kazuto Fukuchi, Jun Sakuma, and Youhei Akimoto. 2021. Level Generation for Angry Birds with Sequential VAE and Latent Variable Evolution. In Proceedings of the Genetic and Evolutionary Computation Conference (Lille, France) (GECCO ’21). Association for Computing Machinery, New York, NY, USA, 1052–1060. <https://doi.org/10.1145/3449639.34592>
