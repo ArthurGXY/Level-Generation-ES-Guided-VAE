@@ -14,7 +14,8 @@
 4. Configure the filepath of variable `notebook_path`.
 5. (Select a custom fitness).
 6. Run all code blocks.
-7. Generated levels are saved under "./GPU/generated_levels".
+7. Generated levels are saved under "./GPU/generated_levels" if running on GPU. If it is run on CPU, the folder is "./CPU/generated_levels"
 
 ### Remarks:
 1. We separate "GPU" and "CPU" since there are difference between the two modes that cannot be merged easily.
+2. The "TensorFlow(abandoned)" folder contains our attempt of building the VAE from scratch. However, it suffers from overfitting issues and we do not have enough time to figure that out.
