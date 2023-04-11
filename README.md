@@ -11,7 +11,7 @@
 1. If your Google Colab can run GPU, download the folder "GPU". Otherwise, download the folder "CPU".
 2. Upload that onto Google Colab.
 3. Open "Experiment.ipynb".
-4. Configure the filepath of variable `notebook_path`.
+4. Configure the variable `notebook_path` to the path of the notebook.
 5. (Select a custom fitness).
 6. Run all code blocks.
 7. Generated levels are saved under "./GPU/generated_levels" if running on GPU. If it is run on CPU, the folder is "./CPU/generated_levels"
