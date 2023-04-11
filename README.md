@@ -4,7 +4,8 @@
 
 1. Download the folder "build-windows". If you are using other OS, you can fetch the [Science Birds](https://github.com/lucasnfe/science-birds) repository and build it with Unity.
 2. Run "Science_Birds.exe", or the binary executable you compiled.
-3. Levels are saved in ".xml" format and placed in folder "./build-windows/ScienceBirds_Data/StreamingAssets/Levels".
+3. Our generated levels start from level 4.
+4. Levels are saved in ".xml" format and placed in folder "./build-windows/ScienceBirds_Data/StreamingAssets/Levels".
 
 ### Run EA:
 
