@@ -8,13 +8,14 @@
 
 ### Run EA:
 
-1. If your Google Colab can run GPU, download the folder "GPU". Otherwise, download the folder "CPU".
+1. Download the folder "GPU".
 2. Upload that onto Google Colab.
 3. Open "Experiment.ipynb".
-4. Configure the variable `notebook_path` to the path of the notebook.
-5. (Select a custom fitness).
-6. Run all code blocks.
-7. Generated levels are saved under "./GPU/generated_levels" if running on GPU. If it is run on CPU, the folder is "./CPU/generated_levels"
+4. Connect Colab to GPU.
+5. Configure the variable `notebook_path` to the path of the notebook.
+6. (Select a custom fitness).
+7. Run all code blocks.
+8. Generated levels are saved under "./GPU/generated_levels".
 
 ### Remarks:
 1. We separate "GPU" and "CPU" since there are difference between the two modes that cannot be merged easily.
