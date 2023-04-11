@@ -2,9 +2,9 @@
 
 ### Play game:
 
-1. Download the folder "build-windows".
-2. Run "Science_Birds.exe".
-3. Levels are saved under folder "./build-windows/ScienceBirds_Data/StreamingAssets/Levels".
+1. Download the folder "build-windows". If you other OS, you can fetch the [Science Birds](https://github.com/lucasnfe/science-birds) repository and build it with Unity.
+2. Run "Science_Birds.exe", or the binary executable you compiled.
+3. Levels should be placed in folder "./build-windows/ScienceBirds_Data/StreamingAssets/Levels".
 
 ### Run EA:
 
