@@ -14,7 +14,7 @@
 4. Connect Colab to GPU.
 5. Configure the variable `notebook_path` to the path of the notebook.
 6. (Select a custom fitness).
-7. Run all code blocks.
+7. Run all code blocks. Under default configuration, the EA should take around 6 min to run.
 8. Generated levels are saved under "./GPU/generated_levels".
 
 ### Remarks:
